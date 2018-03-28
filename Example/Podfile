@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'KYChartKit_Example' do
+  pod 'KYChartKit', :path => '../'
+
+  target 'KYChartKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
