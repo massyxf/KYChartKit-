@@ -1,0 +1,6 @@
+framework module KYChartKit {
+  umbrella header "KYChartKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

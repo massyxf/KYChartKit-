@@ -1,0 +1,16 @@
+PODS:
+  - KYChartKit (0.1.0)
+
+DEPENDENCIES:
+  - KYChartKit (from `../`)
+
+EXTERNAL SOURCES:
+  KYChartKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  KYChartKit: fc812e13ee6fcfc731e50be2d946d51a1a7d7233
+
+PODFILE CHECKSUM: 66bfd0031bb69c60284e9f5a8fff30c63177e1b6
+
+COCOAPODS: 1.3.1
